@@ -2,26 +2,26 @@
 
 We propose a novel dual-encoder conditional variational auto encoder network (DE-CVAE). DE-CVAE comprises two encoders to learn the action and reaction motion spaces separately, with a decoder generating the reaction-motion sequence.
 
-![Pose1](Punching 2 Interaction.gif)
-![Pose1](Hand Shaking Interaction.gif)
-![Pose1](HPunching Interaction.gif)
+![Int1](Punching 2 Interaction.gif)
+![Int2](Hand Shaking Interaction.gif)
+![Int3](Punching Interaction.gif)
   
 ## Our model
 ![Model](model.png)
 
 ## Quantized Motion Tokens (QMTs)
-![Pose1](qmts.png)
+![QMTs](qmts.png)
 
 
 ## Results on SBU Dataset
-![Pose1](fig_results_sbu.png)
+![SBU](fig_results_sbu.png)
 
 ## Results on DuetDance Dataset
-![Pose1](fig_results_duetdance.png)
+![DD](fig_results_duetdance.png)
 
 
 ## Results on K3HI Dataset
-![Pose1](fig_results_k3hi.png)
+![KHI](fig_results_k3hi.png)
 
 ## Authors
 Ali Asghar Manjotho
