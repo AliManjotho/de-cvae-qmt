@@ -1,6 +1,6 @@
 # From Action to Reaction: Human Reaction Motion Synthesis using Latent Space Regularization and Alignment with Intermediate Motion Semantics
 
-we propose a novel dual-encoder conditional variational auto encoder network (DE-CVAE). DE-CVAE comprises two encoders to learn the action and reaction motion spaces separately, with a decoder generating the reaction-motion sequence.
+We propose a novel dual-encoder conditional variational auto encoder network (DE-CVAE). DE-CVAE comprises two encoders to learn the action and reaction motion spaces separately, with a decoder generating the reaction-motion sequence.
 
 ## Our model
 ![Model](model.png)
@@ -9,8 +9,8 @@ we propose a novel dual-encoder conditional variational auto encoder network (DE
 ![Pose1](qmts.png)
 
 
-## Demo 2: Controlling fullbody digital avatar in Unity3D
-![Pose1](resources/images/pose2.gif)
+## Results on SBU Dataset
+![Pose1](fig_results_sbu.png)
 
 ## Demo 3: Controlling head pose for a digital avatar in Unity3D
 ![Pose1](resources/images/headpose.gif)
