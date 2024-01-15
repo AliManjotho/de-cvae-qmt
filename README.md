@@ -2,6 +2,9 @@
 
 We propose a novel dual-encoder conditional variational auto encoder network (DE-CVAE). DE-CVAE comprises two encoders to learn the action and reaction motion spaces separately, with a decoder generating the reaction-motion sequence.
 
+<video src='Exchanging Object Interaction_clip.avi' width=180/>
+
+  
 ## Our model
 ![Model](model.png)
 
