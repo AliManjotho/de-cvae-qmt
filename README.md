@@ -1,6 +1,6 @@
 # From Action to Reaction: Human Reaction Motion Synthesis using Latent Space Regularization and Alignment with Intermediate Motion Semantics
 
-Challenges in 3D human pose estimation include occlusions (body parts being hidden), self-occlusions (body parts blocking each other), varying camera viewpoints, and the ambiguity inherent in 2D-to-3D mapping. Researchers and engineers have developed various techniques to address these challenges, such as data augmentation, multi-modal fusion, and using additional cues like clothing information.We propose a novel monocular 3D human pose refining method combining accurate bone length constraints and artificial localization errors.
+we propose a novel dual-encoder conditional variational auto encoder network (DE-CVAE). DE-CVAE comprises two encoders to learn the action and reaction motion spaces separately, with a decoder generating the reaction-motion sequence.
 
 ## Our model
 ![Model](resources/images/model.png)
