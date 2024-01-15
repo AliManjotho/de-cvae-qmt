@@ -12,16 +12,13 @@ We propose a novel dual-encoder conditional variational auto encoder network (DE
 ## Results on SBU Dataset
 ![Pose1](fig_results_sbu.png)
 
-## Demo 3: Controlling head pose for a digital avatar in Unity3D
-![Pose1](resources/images/headpose.gif)
+## Results on DuetDance Dataset
+![Pose1](fig_results_duetdance.png)
 
-## Demo 4: Controlling head pose for a digital avatar in Unity3D
-![Pose1](resources/images/headpose2.gif)
 
-## Driving avatar for qualitative evaluation
-![Snapshot from unity VR application](resources/images/1.png)
-![Snapshot from unity VR application](resources/images/2.png)
-![Snapshot from unity VR application](resources/images/3.png)
+## Results on K3HI Dataset
+![Pose1](fig_results_k3hi.png)
+
 ## Authors
 Ali Asghar Manjotho
 Tekie Tsegay Tewolde
